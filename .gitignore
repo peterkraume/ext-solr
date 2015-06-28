@@ -5,3 +5,4 @@
 atlassian-ide-plugin.xml
 .DS_Store
 vendor/
+Documentation/_make/
