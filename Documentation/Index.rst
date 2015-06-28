@@ -15,7 +15,7 @@ Apache Solr for TYPO3 - Enterprise Search
 .. only:: html
 
 	:Classification:
-		extension_key
+		solr
 
 	:Version:
 		|release|
@@ -24,19 +24,19 @@ Apache Solr for TYPO3 - Enterprise Search
 		en
 
 	:Description:
-		enter description.
+		An extension that integrates the Apache Solr enterprise search server with TYPO3 CMS. The extension has initially been developed by dkd Internet Service GmbH and is now being continued as a community project.
 
 	:Keywords:
-		comma,separated,list,keywords
+		search, apache, solr, lucene, forAdmins, forDevelopers, forBeginners, forIntermediates, forAdvanced
 
 	:Copyright:
-		2015
+		2009 - 2015
 
 	:Author:
 		Ingo Renner
 
 	:Email:
-		author@example.com
+		ingo@typo3.org
 
 	:License:
 		This document is published under the Open Content License
@@ -57,5 +57,6 @@ Apache Solr for TYPO3 - Enterprise Search
 	:glob:
 
 	Introduction/Index
-	UsersManual/Index
 	AdministratorManual/Index
+	ConfigurationReference/Index
+	AddOns/Index
