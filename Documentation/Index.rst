@@ -57,6 +57,7 @@ Apache Solr for TYPO3 - Enterprise Search
 	:glob:
 
 	Introduction/Index
+	UsersManual/Index
 	AdministratorManual/Index
 	ConfigurationReference/Index
 	AddOns/Index
